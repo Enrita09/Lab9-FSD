@@ -1,0 +1,21 @@
+{
+  "name": "lab_9",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Enrita",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.3",
+    "nodemailer": "^7.0.5"
+  }
+}
